@@ -198,10 +198,6 @@ pip install --upgrade pip
 pip install pygame==2.6.1
 ```
 
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing 🤝
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -210,13 +206,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Created as an educational project to visualize pathfinding algorithms.
 
-## Acknowledgments 🙏
 
-- Pygame library for graphics rendering
-- Algorithm inspiration from classic computer science textbooks
-- Community feedback and suggestions
-
----
 
 ### 🎯 Quick Start
 ```bash
