@@ -2,6 +2,10 @@
 
 A interactive pathfinding algorithm visualizer built with **Python** and **Pygame**. Watch A*, Dijkstra's, BFS, and DFS algorithms find the shortest path in real-time!
 
+## Project Demo 🎥
+
+[![Project Demo](https://img.youtube.com/vi/akQ9g7HR79A/maxresdefault.jpg)](https://youtube.com/shorts/t9mofM_7TNw?feature=share)
+
 ## Features ✨
 
 - **4 Pathfinding Algorithms**: BFS, DFS, Dijkstra's, and A*
